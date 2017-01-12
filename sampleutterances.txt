@@ -1,0 +1,4 @@
+WhatDoes {what does it feel like in thornton | FeelsLike}
+WhatDoes {what does it feel like outside in thornton | FeelsLike}
+WhatDoes {what is the windchill in thornton | FeelsLike}
+WhatDoes {what is the weather in thornton | FeelsLike}

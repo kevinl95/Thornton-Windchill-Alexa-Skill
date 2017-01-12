@@ -1,0 +1,9 @@
+{
+  "intents": [ {
+    "intent": "WhatDoes",
+    "slots": [ {
+       "name": "FeelsLike",
+       "type": "LITERAL"
+    } ]
+  } ]
+}
